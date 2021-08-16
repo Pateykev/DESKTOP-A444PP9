@@ -1,0 +1,20 @@
+{
+  "legend": {
+    "arrangement": 0,
+    "autoUpdate": true,
+    "respectCurrentMapScale": true
+  },
+  "layerState": {
+    "Hotels_in_Niagara_Region_4205": {
+      "selected": false
+    },
+    "Merge_Open_Data_Wineries_overpassmap_3076": {
+      "selected": true
+    },
+    "featColl_4076_0": {
+      "selected": true
+    }
+  },
+  "syncWithWebmap": false,
+  "showLegendForBasemap": false
+}

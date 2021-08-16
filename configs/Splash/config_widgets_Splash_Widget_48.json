@@ -1,0 +1,35 @@
+{
+  "splash": {
+    "splashContent": "<div><br /></div>\n\t<div align=\"center\"><b><span style=\"font-family: Garamond;\"><font size=\"6\">Welcome to Wineries of the Niagara Region!</font></span><br /></b></div><div align=\"center\"><font size=\"4\"><b>Please use this map to find the location of your favorite winery and explore new wines using the green &quot;near me&quot; button, you can also find local hotels and inns using the orange button, both at the bottom of the screen. In addition, use the directions button to find the best route to your choice winery, local hotels and other attractions. Don't forget to bookmark your findings for easy access later on. Enjoy the many links provided at the top of the page link for wine tour information.</b></font></div><div align=\"center\"><font size=\"4\"><b>Bon Voyage!</b></font></div><div align=\"center\"><br /></div>",
+    "requireConfirm": false,
+    "confirm": {
+      "text": "",
+      "color": "#ffffff",
+      "transparency": 0
+    },
+    "showOption": true,
+    "confirmEverytime": true,
+    "contentVertical": "top",
+    "size": {
+      "mode": "percent",
+      "percent": "75%",
+      "wh": {
+        "w": 600,
+        "h": 264
+      }
+    },
+    "background": {
+      "mode": "image",
+      "image": "${appPath}/configs/Splash/base64Img_widgets_Splash_Widget_48_1628954491922.jpeg",
+      "type": "fill",
+      "fileName": "4b2cf491dbb74ed3842a144425e8d630niagara_wine_festival_lg.jpg",
+      "color": "#006400",
+      "transparency": 0
+    },
+    "button": {
+      "color": "#518dca",
+      "transparency": 0,
+      "text": "OK"
+    }
+  }
+}
